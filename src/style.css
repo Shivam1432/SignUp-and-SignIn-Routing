@@ -1,0 +1,42 @@
+.container1{
+    background-color:lightgrey;
+    width:500px;
+    height:300px;
+    color:black;
+    font-weight: bold;
+}
+.container2{
+    background-color:lightgrey;
+    width:500px;
+    height:300px;
+    color:black;
+    font-weight: bold;
+}
+.heading{
+    text-align:center;
+    color:black;
+}
+.btn{
+    margin-left:200px;
+    background-color:lightgreen;
+    color:white;
+}
+.lbl{
+    margin-left:10px;
+}
+.username{
+    width:90%;
+    margin-left:10px;
+    margin-right:10px;
+}
+.pass{
+    width:90%;
+    margin-left:10px;
+    margin-right:10px;
+}
+.email{
+    width:90%;
+    margin-left:10px;
+    margin-right:10px;
+}
+
